@@ -96,3 +96,9 @@ ML-Dataset-Explorer
 - Practice Pandas DataFrames
 - Explore dataset statistics
 - Export datasets for machine learning projects
+
+  ## Author
+
+  **AYELA AHSAN **
+
+  **COMPUTER SCIENCE STUDENT **
