@@ -99,6 +99,6 @@ ML-Dataset-Explorer
 
   ## Author
 
-  **AYELA AHSAN **
+  **AYELA AHSAN**
 
-  **COMPUTER SCIENCE STUDENT **
+  **COMPUTER SCIENCE STUDENT**
